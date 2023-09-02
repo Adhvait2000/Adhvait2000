@@ -23,9 +23,3 @@ I am Adhvait Srinath and I am a computer science undergraudate student from NTU.
 ### Stats
 
 ![Adhvait's Github Stats](https://github-readme-stats.vercel.app/api?username=Adhvait2000&show_icons=true&theme=tokyonight)
-
-#
-
-<details>
-    <summary><h3>Adhvait's Coding Journey</h3></summary>
-        I started my coding joureny..
