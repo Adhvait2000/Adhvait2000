@@ -18,6 +18,8 @@ I am Adhvait Srinath and I am a computer science undergraudate student from NTU.
 <img align ="left" alt="Java" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align ="left" alt="Java" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
+#
+
 ### Stats
 
 ![Adhvait's Github Stats](https://github-readme-stats.vercel.app/api?username=Adhvait2000&show_icons=true&theme=tokyonight)
