@@ -1,8 +1,8 @@
-### Adhvait Srinath 👋
+### About Me 👋
 
-**`Computer Science Undergraduate Student`**
+**`Aspiring Software Developer`**
 
-I am Adhvait Srinath and I am a computer science undergraudate student from NTU. 
+I am Adhvait! A current computing undergraduate at Nanyang Technological University (NTU). I am interested in software engineering and artificial intelligence and am keen in learning new technologies!
 
 
 ### Languages and Tools
@@ -21,6 +21,7 @@ I am Adhvait Srinath and I am a computer science undergraudate student from NTU.
 <img align ="left" alt="Java" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
 #
+
 
 ### Stats
 
