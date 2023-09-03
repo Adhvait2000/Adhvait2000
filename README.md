@@ -2,7 +2,7 @@
 
 **`Aspiring Software Developer`**
 
-I am Adhvait! A current computing undergraduate at Nanyang Technological University (NTU). I am interested in software engineering and artificial intelligence and am keen on learning new technologies!
+I am Adhvait! A current computing undergraduate at Nanyang Technological University (NTU). I am interested in software engineering, artificial intelligence, and frontend development. I am also very keen on learning new technologies!
 
 
 ### Languages and Tools
