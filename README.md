@@ -27,4 +27,4 @@ I am Adhvait! A current computing undergraduate at Nanyang Technological Univers
 
 ### Stats
 
-![Adhvait's Github Stats](https://github-readme-stats.vercel.app/api?username=Adhvait2000&show_icons=true&theme=tokyonight)
+## ![Adhvait's Github Stats](https://github-readme-stats.vercel.app/api?username=Adhvait2000&show_icons=true&theme=tokyonight)
