@@ -1,6 +1,6 @@
 ### About Me 👋
 
-**`Aspiring Data Analyst`**
+**`Aspiring Software Deverloper or Data Analyst`**
 
 I am Adhvait! A current computing undergraduate at Nanyang Technological University (NTU). I am interested in software engineering, artificial intelligence, and data analytics. I am also very keen on learning new technologies!
 
