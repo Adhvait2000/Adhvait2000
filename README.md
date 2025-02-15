@@ -4,7 +4,7 @@
 
 I am Adhvait! A current computing undergraduate at Nanyang Technological University (NTU). I am interested in software engineering, artificial intelligence, and data analytics. I am also very keen on learning new technologies!
 
-<a href="https://adhvaitsrinath.netlify.app" class="bold-italic-link">Click here to visit my website!</a>
+<a href="https://adhvait-portfolio.netlify.app" class="bold-italic-link">Click here to visit my website!</a>
 
 
 ### Languages and Tools
